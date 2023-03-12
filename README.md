@@ -1,17 +1,31 @@
-# to_do_app
+# Todo App
 
-A new Flutter project.
+This is a basic Todo app made with Flutter. The app allows users to create a list of tasks that they need to complete, and mark them as complete when finished.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the app, you will need to have Flutter installed on your computer. If you do not already have Flutter installed, please follow the instructions on the Flutter website to install it: <https://flutter.dev/docs/get-started/install>
 
-A few resources to get you started if this is your first Flutter project:
+Once Flutter is installed, you can run the app by opening the project in your preferred editor and running the following command:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# To Do App
+## Features
+
+### Add a Todo
+
+To add a Todo, simply tap the "+" button in the bottom right corner of the app, enter the name of the task you want to add, and tap the "Add" button.
+
+### Mark a Todo as Complete
+
+To mark a Todo as complete, simply tap the checkbox next to the task you have completed.
+
+### Delete a Todo
+
+To delete a Todo, simply swipe left on the task you want to delete, and then tap the "Delete" button.
+
+## Conclusion
+
+This is a basic Todo app made with Flutter. It is a great starting point for anyone looking to build their own Todo app, or for anyone looking to learn more about Flutter.
